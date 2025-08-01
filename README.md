@@ -38,29 +38,29 @@ Include these instructions on how to set up the project locally:
 
    ```
 
-2. **Install dependencies:**
-   Using npm
+2. **Install dependencies:**.
+   Using `npm`
 
    ```bash
    npm install
 
    ```
 
-   Using yarn
+   Using `yarn`
 
    ```bash
    yarn install
    ```
 
-3. **Run the project locally:**
-   Using npm
+3. **Run the project locally:**.
+   Using `npm`
 
    ```bash
    npm start
 
    ```
 
-   Using yarn
+   Using `yarn`
 
    ```bash
    yarn start
