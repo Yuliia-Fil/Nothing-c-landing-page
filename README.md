@@ -34,7 +34,7 @@ Include these instructions on how to set up the project locally:
 
    ```bash
    git clone https://github.com/yuliia-fil/Nothing-c-landing-page.git
-   cd project-name
+   cd Nothing-c-landing-page
 
    ```
 
