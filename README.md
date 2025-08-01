@@ -4,11 +4,11 @@ The Nothing landing page is a concept website designed to showcase a sleek tech 
 
 # ✨ Features
 
-- 🔹 Responsive layout (mobile, tablet, desktop)
-- 🔹 Burger menu for mobile navigation
-- 🔹 Smooth scroll to page sections
-- 🔹 Clean, minimalist design
-- 🔹 Fully static with no frameworks
+- Responsive layout (mobile, tablet, desktop)
+- Burger menu for mobile navigation
+- Smooth scroll to page sections
+- Clean, minimalist design
+- Fully static with no frameworks
 
 # 🔗 Live Demo
 
@@ -16,7 +16,7 @@ The Nothing landing page is a concept website designed to showcase a sleek tech 
 
 # Design reference
 
-https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6802-139&p=f&t=4xyCxApLGd6485WI-0
+[Figma](https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6802-139&p=f&t=4xyCxApLGd6485WI-0)
 
 # 🛠️ Technologies Used
 
@@ -30,20 +30,38 @@ https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=680
 
 Include these instructions on how to set up the project locally:
 
-1. Clone the repository:
-   git clone https://github.com/your-username/project-name.git
+1. **Clone the repository**
+
+   ```bash
+   git clone https://github.com/yuliia-fil/Nothing-c-landing-page.git
    cd project-name
 
-2. Install dependencies:
+   ```
+
+2. **Install dependencies:**
+   Using npm
+
+   ```bash
    npm install
 
-# or
+   ```
 
-yarn install
+   Using yarn
 
-3. Run the project locally:
+   ```bash
+   yarn install
+   ```
+
+3. **Run the project locally:**
+   Using npm
+
+   ```bash
    npm start
 
-# or
+   ```
 
-yarn start
+   Using yarn
+
+   ```bash
+   yarn start
+   ```
