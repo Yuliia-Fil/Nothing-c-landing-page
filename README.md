@@ -38,7 +38,8 @@ Include these instructions on how to set up the project locally:
 
    ```
 
-2. **Install dependencies:**.
+2. **Install dependencies:**
+
    Using `npm`
 
    ```bash
@@ -52,7 +53,8 @@ Include these instructions on how to set up the project locally:
    yarn install
    ```
 
-3. **Run the project locally:**.
+3. **Run the project locally:**
+
    Using `npm`
 
    ```bash
